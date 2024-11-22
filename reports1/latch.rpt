@@ -1,0 +1,5 @@
+
+18. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\Timer_PWM_Generator.\PWM_OUTA' from process `\Timer_PWM_Generator.$proc$/foss/designs/proyecto_integrados/open_final/src/Timer_PWM_Generator.v:61$2'.
+No latch inferred for signal `\Timer_PWM_Generator.\PWM_OUTB' from process `\Timer_PWM_Generator.$proc$/foss/designs/proyecto_integrados/open_final/src/Timer_PWM_Generator.v:61$2'.
+No latch inferred for signal `\Timer_PWM_Generator.\timer_interrupt' from process `\Timer_PWM_Generator.$proc$/foss/designs/proyecto_integrados/open_final/src/Timer_PWM_Generator.v:61$2'.
