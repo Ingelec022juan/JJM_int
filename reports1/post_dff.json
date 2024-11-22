@@ -1,0 +1,59 @@
+{
+   "creator": "Yosys 0.46 (git sha1 e97731b9d, g++ 11.4.0-1ubuntu1~22.04 -fPIC -O3)",
+   "invocation": "stat -json -liberty /foss/designs/proyecto_integrados/open_final/runs/RUN_2024-11-22_04-16-31/tmp/61c70fc842f842cebba3fb03550bc1a6.lib ",
+   "modules": {
+      "\\Timer_PWM_Generator": {
+         "num_wires":         1467,
+         "num_wire_bits":     1779,
+         "num_pub_wires":     19,
+         "num_pub_wire_bits": 207,
+         "num_ports":         10,
+         "num_port_bits":     105,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         1613,
+         "area":              2680.070400,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 624,
+            "$_AND_": 39,
+            "$_MUX_": 34,
+            "$_NAND_": 77,
+            "$_NOR_": 50,
+            "$_NOT_": 106,
+            "$_ORNOT_": 159,
+            "$_OR_": 112,
+            "$_XNOR_": 107,
+            "$_XOR_": 203,
+            "sky130_fd_sc_hd__dfrtp_2": 102
+         }
+      }
+   },
+      "design": {
+         "num_wires":         1467,
+         "num_wire_bits":     1779,
+         "num_pub_wires":     19,
+         "num_pub_wire_bits": 207,
+         "num_ports":         10,
+         "num_port_bits":     105,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         1613,
+         "area":              2680.070400,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 624,
+            "$_AND_": 39,
+            "$_MUX_": 34,
+            "$_NAND_": 77,
+            "$_NOR_": 50,
+            "$_NOT_": 106,
+            "$_ORNOT_": 159,
+            "$_OR_": 112,
+            "$_XNOR_": 107,
+            "$_XOR_": 203,
+            "sky130_fd_sc_hd__dfrtp_2": 102
+         }
+      }
+}
+
